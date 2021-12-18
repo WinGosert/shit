@@ -1,0 +1,17 @@
+"UnlitGeneric"
+{
+	"$basetexture" "overlays/fivenights_freddy/toy_golden_deathscreen"
+	"$vertexcolor" "1"
+	"$vertexalpha" "1"
+	"$nolod" "1"
+
+	"Proxies" 
+	{ 
+		"AnimatedTexture" 
+		{
+			"animatedTextureVar" "$basetexture" 
+			"animatedTextureFrameNumVar" "$frame" 
+			"animatedTextureFrameRate" "17"
+		 } 
+	} 
+}

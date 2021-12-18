@@ -1,0 +1,113 @@
+Sat Dec 18 22:37:52 2021 UTC - Module file name: D:\Steam\gameoverlayrenderer.dll
+Sat Dec 18 22:37:52 2021 UTC - GameID = 220, OverlayGameID = 220
+Sat Dec 18 22:37:52 2021 UTC - System page size: 4096
+Sat Dec 18 22:37:52 2021 UTC - Failed loading shell32.dll, not hooking ShellExecute calls
+Sat Dec 18 22:37:52 2021 UTC - Hooking SetCursorPos, GetCursorPos, ShowCursor, SetCursor, and GetCursor
+Sat Dec 18 22:37:52 2021 UTC - Modules at GameOverlayRenderer.dll attach
+Sat Dec 18 22:37:52 2021 UTC - 01: hl2.exe - (00AF0000 to 00B11000)
+Sat Dec 18 22:37:52 2021 UTC - 02: ntdll.dll - (76ED0000 to 77073000)
+Sat Dec 18 22:37:52 2021 UTC - 03: KERNEL32.DLL - (760F0000 to 761E0000)
+Sat Dec 18 22:37:52 2021 UTC - 04: KERNELBASE.dll - (767F0000 to 76A04000)
+Sat Dec 18 22:37:52 2021 UTC - 05: apphelp.dll - (6C220000 to 6C2BF000)
+Sat Dec 18 22:37:52 2021 UTC - 06: USER32.dll - (74DF0000 to 74F90000)
+Sat Dec 18 22:37:52 2021 UTC - 07: win32u.dll - (76490000 to 764A8000)
+Sat Dec 18 22:37:52 2021 UTC - 08: GDI32.dll - (75940000 to 75964000)
+Sat Dec 18 22:37:52 2021 UTC - 09: gdi32full.dll - (753A0000 to 7547E000)
+Sat Dec 18 22:37:52 2021 UTC - 10: msvcp_win.dll - (758C0000 to 7593B000)
+Sat Dec 18 22:37:52 2021 UTC - 11: ucrtbase.dll - (765A0000 to 766C0000)
+Sat Dec 18 22:37:52 2021 UTC - 12: IMM32.DLL - (752B0000 to 752D5000)
+Sat Dec 18 22:37:52 2021 UTC - 13: gameoverlayrenderer.dll - (6C090000 to 6C219000)
+Sat Dec 18 22:37:52 2021 UTC - 14: ADVAPI32.dll - (75230000 to 752AA000)
+Sat Dec 18 22:37:52 2021 UTC - 15: msvcrt.dll - (752E0000 to 7539F000)
+Sat Dec 18 22:37:52 2021 UTC - 16: sechost.dll - (761F0000 to 76265000)
+Sat Dec 18 22:37:52 2021 UTC - 17: RPCRT4.dll - (76DB0000 to 76E6F000)
+Sat Dec 18 22:37:52 2021 UTC - 18: ole32.dll - (764B0000 to 76593000)
+Sat Dec 18 22:37:52 2021 UTC - 19: combase.dll - (76A10000 to 76C91000)
+Sat Dec 18 22:37:52 2021 UTC - 20: OLEAUT32.dll - (766C0000 to 76756000)
+Sat Dec 18 22:37:52 2021 UTC - 21: PSAPI.DLL - (761E0000 to 761E6000)
+Sat Dec 18 22:37:52 2021 UTC - 22: WINMM.dll - (718A0000 to 718C8000)
+Sat Dec 18 22:37:52 2021 UTC - ----------------------------
+Sat Dec 18 22:37:52 2021 UTC - Game is using D3D9 or D3D9Ex, preparing to hook.
+Sat Dec 18 22:37:52 2021 UTC - hookDirect3DCreate9Ex called
+Sat Dec 18 22:37:52 2021 UTC - Initializing Audio...
+Sat Dec 18 22:37:52 2021 UTC - Game is using dxgi (dx10/dx11), preparing to hook.
+Sat Dec 18 22:37:52 2021 UTC - Game is using ddraw.dll (dx7 or lower)... hooking.
+Sat Dec 18 22:37:53 2021 UTC - Game is using dinput8, preparing to hook.
+Sat Dec 18 22:37:53 2021 UTC - CoCreateInstance hook created DirectInput8 interface 0EF04448
+Sat Dec 18 22:37:53 2021 UTC - XInput Hooked XInputEnable Version 14
+Sat Dec 18 22:37:53 2021 UTC - XInput Hooked XInputGetAudioDeviceIds Version 14
+Sat Dec 18 22:37:53 2021 UTC - XInput Hooked XInputGetBatteryInformation Version 14
+Sat Dec 18 22:37:53 2021 UTC - XInput Hooked XInputGetCapabilities Version 14
+Sat Dec 18 22:37:53 2021 UTC - XInput Hooked XInputGetKeystroke Version 14
+Sat Dec 18 22:37:53 2021 UTC - XInput Hooked XInputGetState Version 14
+Sat Dec 18 22:37:53 2021 UTC - XInput Hooked XInputGetStateEX Version 14
+Sat Dec 18 22:37:53 2021 UTC - XInput Hooked XInputSetState Version 14
+Sat Dec 18 22:37:53 2021 UTC - CoCreateInstance hook created DirectInput8 interface 0EF042E0
+Sat Dec 18 22:37:53 2021 UTC - Registering HWND 06860684 for device notifications
+Sat Dec 18 22:37:53 2021 UTC - Game is using opengl32.dll... hooking.
+Sat Dec 18 22:37:53 2021 UTC - Game is using opengl32.dll... hooking.
+Sat Dec 18 22:37:53 2021 UTC - Creating IWrapWbemLocator
+Sat Dec 18 22:37:53 2021 UTC - CoCreateInstance hook created WbemLocator interface 0EF43E70
+Sat Dec 18 22:37:53 2021 UTC - IWrapWbemLocator 0EF43E70 deleting
+Sat Dec 18 22:37:53 2021 UTC - IWrapIDirect3D9Ex::CreateDevice hook called (type: 1, behavior flags: 56!)
+Sat Dec 18 22:37:53 2021 UTC - Creating D3D9Ex renderer
+Sat Dec 18 22:37:54 2021 UTC - Trying to setup input hook...
+Sat Dec 18 22:37:54 2021 UTC - Set input hook...
+Sat Dec 18 22:37:55 2021 UTC - IAudioClient_Initialize - SUCCEEDED
+Sat Dec 18 22:37:55 2021 UTC - Audio client initialized: 0x267FDF68
+Sat Dec 18 22:37:55 2021 UTC - Device:
+Sat Dec 18 22:37:55 2021 UTC - Audio client mix format:
+Sat Dec 18 22:37:55 2021 UTC - 	format: 65534
+Sat Dec 18 22:37:55 2021 UTC - 	channels: 2
+Sat Dec 18 22:37:55 2021 UTC - 	samples/sec: 48000
+Sat Dec 18 22:37:55 2021 UTC - 	bytes/sec: 384000
+Sat Dec 18 22:37:55 2021 UTC - 	alignment: 8
+Sat Dec 18 22:37:55 2021 UTC - 	bits/sample: 32
+Sat Dec 18 22:37:55 2021 UTC - 	channel mask: 0x3
+Sat Dec 18 22:37:55 2021 UTC - 	data format: {00000003-0000-0010-8000-00AA00389B71}
+Sat Dec 18 22:37:55 2021 UTC - Audio hooked
+Sat Dec 18 22:37:55 2021 UTC - Audio client started: 0x267FDF68, 1
+Sat Dec 18 22:38:04 2021 UTC - Disabling overlay for 2 seconds (10 seconds since last frame from ui process was seen)
+Sat Dec 18 22:38:06 2021 UTC - Disabling overlay for 2 seconds (12 seconds since last frame from ui process was seen)
+Sat Dec 18 22:38:08 2021 UTC - Disabling overlay for 2 seconds (14 seconds since last frame from ui process was seen)
+Sat Dec 18 22:38:10 2021 UTC - Disabling overlay for 2 seconds (16 seconds since last frame from ui process was seen)
+Sat Dec 18 22:38:12 2021 UTC - Disabling overlay for 2 seconds (18 seconds since last frame from ui process was seen)
+Sat Dec 18 22:38:14 2021 UTC - Disabling overlay for 2 seconds (20 seconds since last frame from ui process was seen)
+Sat Dec 18 22:38:16 2021 UTC - Disabling overlay for 2 seconds (22 seconds since last frame from ui process was seen)
+Sat Dec 18 22:38:18 2021 UTC - Disabling overlay for 2 seconds (24 seconds since last frame from ui process was seen)
+Sat Dec 18 22:38:20 2021 UTC - Disabling overlay for 2 seconds (26 seconds since last frame from ui process was seen)
+Sat Dec 18 22:38:22 2021 UTC - Disabling overlay for 2 seconds (28 seconds since last frame from ui process was seen)
+Sat Dec 18 22:38:24 2021 UTC - Disabling overlay for 2 seconds (30 seconds since last frame from ui process was seen)
+Sat Dec 18 22:38:26 2021 UTC - Disabling overlay for 2 seconds (32 seconds since last frame from ui process was seen)
+Sat Dec 18 22:38:28 2021 UTC - Disabling overlay for 2 seconds (34 seconds since last frame from ui process was seen)
+Sat Dec 18 22:38:30 2021 UTC - Disabling overlay for 2 seconds (36 seconds since last frame from ui process was seen)
+Sat Dec 18 22:38:32 2021 UTC - Disabling overlay for 2 seconds (38 seconds since last frame from ui process was seen)
+Sat Dec 18 22:38:35 2021 UTC - Disabling overlay for 2 seconds (40 seconds since last frame from ui process was seen)
+Sat Dec 18 22:38:35 2021 UTC - Creating IWrapWbemLocator
+Sat Dec 18 22:38:35 2021 UTC - CoCreateInstance hook created WbemLocator interface 13BBE538
+Sat Dec 18 22:38:35 2021 UTC - IWrapWbemLocator 13BBE538 deleting
+Sat Dec 18 22:38:37 2021 UTC - Disabling overlay for 2 seconds (42 seconds since last frame from ui process was seen)
+Sat Dec 18 22:38:38 2021 UTC - Found a hooked function in now unloaded module, removing from map.
+Sat Dec 18 22:38:38 2021 UTC - Found a hooked function in now unloaded module, removing from map.
+Sat Dec 18 22:38:38 2021 UTC - Found a hooked function in now unloaded module, removing from map.
+Sat Dec 18 22:38:38 2021 UTC - Found a hooked function in now unloaded module, removing from map.
+Sat Dec 18 22:38:38 2021 UTC - Found a hooked function in now unloaded module, removing from map.
+Sat Dec 18 22:38:38 2021 UTC - Found a hooked function in now unloaded module, removing from map.
+Sat Dec 18 22:38:38 2021 UTC - Found a hooked function in now unloaded module, removing from map.
+Sat Dec 18 22:38:38 2021 UTC - Releasing all resources for device: 13C48AC0
+Sat Dec 18 22:38:38 2021 UTC - Detaching input hook...
+Sat Dec 18 22:38:38 2021 UTC - DInput 0EF04448 deleting
+Sat Dec 18 22:38:38 2021 UTC - DInput 0EF042E0 deleting
+Sat Dec 18 22:38:38 2021 UTC - Found a hooked function in now unloaded module, removing from map.
+Sat Dec 18 22:38:38 2021 UTC - Found a hooked function in now unloaded module, removing from map.
+Sat Dec 18 22:38:38 2021 UTC - Found a hooked function in now unloaded module, removing from map.
+Sat Dec 18 22:38:38 2021 UTC - Found a hooked function in now unloaded module, removing from map.
+Sat Dec 18 22:38:38 2021 UTC - Found a hooked function in now unloaded module, removing from map.
+Sat Dec 18 22:38:38 2021 UTC - Found a hooked function in now unloaded module, removing from map.
+Sat Dec 18 22:38:38 2021 UTC - Found a hooked function in now unloaded module, removing from map.
+Sat Dec 18 22:38:38 2021 UTC - Found a hooked function in now unloaded module, removing from map.
+Sat Dec 18 22:38:38 2021 UTC - Found a hooked function in now unloaded module, removing from map.
+Sat Dec 18 22:38:38 2021 UTC - Found a hooked function in now unloaded module, removing from map.
+Sat Dec 18 22:38:38 2021 UTC - Found a hooked function in now unloaded module, removing from map.
+Sat Dec 18 22:38:38 2021 UTC - Found a hooked function in now unloaded module, removing from map.
+Sat Dec 18 22:38:38 2021 UTC - GameOverlayRenderer.dll detaching

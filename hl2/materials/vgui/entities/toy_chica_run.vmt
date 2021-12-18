@@ -1,0 +1,17 @@
+"UnlitGeneric"
+{
+	"$basetexture" "overlays/fivenights_chica/toy_chicadeath"
+	"$vertexcolor" "1"
+	"$vertexalpha" "1"
+	"$nolod" "1"
+
+	"Proxies" 
+	{ 
+		"AnimatedTexture" 
+		{
+			"animatedTextureVar" "$basetexture" 
+			"animatedTextureFrameNumVar" "$frame" 
+			"animatedTextureFrameRate" "17"
+		 } 
+	} 
+}
