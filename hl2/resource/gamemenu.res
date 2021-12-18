@@ -46,9 +46,4 @@
 		"label" "#GameUI_GameMenu_Quit"
 		"command" "Quit"
 	}
-	"9"
-	{
-		"label" "created by modeosm"
-		"command" "echo if you are interested in the new version of gmod, you can find the creator on YouTube"
-	}
 }
